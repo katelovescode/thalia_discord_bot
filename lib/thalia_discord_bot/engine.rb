@@ -16,7 +16,7 @@ module ThaliaDiscordBot
         event.respond('Pong!')
       end
   
-      bot.run
+      bot.run(true)
     end
   end
 end
